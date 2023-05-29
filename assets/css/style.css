@@ -8,6 +8,7 @@
 }
 
 body {
+    margin: 0;
     font-family: Inter, sans-serif;
     font-weight: 400;
     color: #3a3a3a;
@@ -26,4 +27,39 @@ h1, h2 {
 .logo {
     float: left;
     font-size: 350%;
+}
+
+
+/* Navigation links */
+
+.menu {
+    font-size: 200%;
+    letter-spacing: 2px;
+}
+
+.menu, .logo {
+    line-height: 80px;
+}
+
+ul {
+    float: right;
+}
+
+.menu li {
+    float: left;
+    list-style-type: none;
+    margin-right: 40px;
+}
+
+.menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+.menu a:hover {
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active {
+    border-bottom: 1px solid #3a3a3a;
 }
