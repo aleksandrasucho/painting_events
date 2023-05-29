@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Sansita+Swashed:wght@500&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+body {
+    font-family: Inter, sans-serif;
+    font-weight: 400;
+}
+
+h1 {
+    font-family: 'Sansita', sans-serif;
+}
