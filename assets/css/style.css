@@ -91,7 +91,7 @@ ul {
     left: 50%;
     transform: translate(-50%, -50%);
 
-    background-color: rgba(255, 255, 255, 0.72);
+    background-color: rgba(164,193,149,0.72);
     border-radius: 30px;
     border: 1px solid #3a3a3a;
 }
@@ -103,14 +103,19 @@ ul {
 /* Information About the Event */
 
 .introduction {
-    border: 3px solid;
-    width: 50%;
+    border: 3px solid #3a3a3a;
+    border-radius: 30px;
+
+    width: 80%;
     padding: 10px;
     text-align: center;
-    margin: 30px auto;
+    margin: 45px auto;
     font-size: 150%;
-    background-color: blanchedalmond;
+    color: #3a3a3a;
+    background-color: rgba(164,193,149,1.00);
   }
 
   
-
+.welcome {
+    font-size: 200%;
+}
