@@ -160,13 +160,23 @@ ul {
     margin-left: 60px;
 }
 
-/* Features */
+/* Book Now feature on Home Page */
 
-.features div {
-    color: rgba(93, 128, 75, 1.00);
-    font-size: 20px;
-    width: 30%;
-    float: left;
-    padding: 30px 0 0 10px;
+.book-now a {
+    border: 1px solid rgba(93, 128, 75, 1.00);
+    border-radius: 5px;
+    text-transform: uppercase;
+    background-color: rgba(93, 128, 75, 1.00);
+    color: #fff;
+    font-weight: bold;
+    font-size: 30px;
+    display: inline-block;
     text-align: center;
-}
+
+    display: block; 
+    margin: 0 auto;
+    text-align: center;
+    width: fit-content; 
+
+    
+  }
