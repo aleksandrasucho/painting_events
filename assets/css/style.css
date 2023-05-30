@@ -15,7 +15,7 @@ body {
     
 }
 
-/* Headings and logo */
+/* Header and logo */
 
 h1, h2 {
     font-family: 'Sansita Swashed', sans-serif;
@@ -93,8 +93,24 @@ ul {
 
     background-color: rgba(255, 255, 255, 0.72);
     border-radius: 30px;
+    border: 1px solid #3a3a3a;
 }
 
 .hero-text p {
     text-align: center;
 }
+
+/* Information About the Event */
+
+.introduction {
+    border: 3px solid;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+    margin: 30px auto;
+    font-size: 150%;
+    background-color: blanchedalmond;
+  }
+
+  
+
