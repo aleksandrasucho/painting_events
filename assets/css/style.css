@@ -57,8 +57,10 @@ ul {
     color: inherit;
 }
 
+/* mouse over link */
 .menu a:hover {
     border-bottom: 1px solid #3a3a3a;
+    color: rgba(93,128,75,1.00);
 }
 
 .active {
@@ -105,46 +107,55 @@ ul {
 /* Information About the Event */
 
 .introduction {
-    border: 3px solid #3a3a3a;
-    border-radius: 30px;
-
+    border-top: 1px solid #252525;
+    border-bottom: 1px solid #252525;
     width: 80%;
     padding: 10px;
     text-align: center;
     margin: 50px auto;
     font-size: 150%;
     color: rgba(16, 16, 16, 1);
-    background-color: rgba(164,193,149,1.00);
     clear: both;
-  }
+}
 
-  .information {
+.information {
     height: 600px;
-  }
-  
+}
+
 .welcome {
     font-size: 200%;
-    width: 100%;
-    margin-left: 30px;
+    width: 70%;
+    margin: 0 auto; 
+    color: rgba(93, 128, 75, 1.00);
 }
 
 .left-about {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
     padding-top: 30px;
-    width: 30%;
-    float: left;
-    margin-left: 30px;
-    
-
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 70px;
+    margin-right: 30px; 
+    text-align: justify;
 }
 
 .right-about {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
     padding-top: 30px;
-    width: 50%;
-    float: right;
-    margin-left: 30px;
-    
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 30px; 
+}
+
+.container {
+    width: 800px;
+    height: 400px;
+    padding: 30px;
+    float: left;
+    background: url(../images/canvas\ set\ up.webp) no-repeat center center;
+    margin-left: 60px;
 }
