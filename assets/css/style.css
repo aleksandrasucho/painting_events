@@ -63,3 +63,13 @@ ul {
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
+/* Hero Image */
+
+.hero-image {
+    height: 600px;
+    width: 100vw;
+    background: url('../images/Art-in-other-languages.webp') no-repeat center center;
+    background-size: cover;
+    overflow: hidden;
+}
