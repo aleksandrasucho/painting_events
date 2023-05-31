@@ -199,7 +199,7 @@ ul {
     display: flex; 
     justify-content: center; 
     align-items: center;
-    border-top: 1px solid #252525; 
+    border-top: 1px solid #fff; 
     margin-top: 30px;
     background-color: rgba(93, 128, 75, 1.00);
   }
