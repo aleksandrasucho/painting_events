@@ -257,11 +257,32 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
+  
   }
 
   .container-form {
     position: relative;
-    max-width: 700px;
+    max-width: 500px;
     width: 100%;
     background: #fff;
-  }
+   
+  }   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
