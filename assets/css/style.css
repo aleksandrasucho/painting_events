@@ -195,6 +195,7 @@ ul {
   /* Footer */
 
   footer {
+    position: relative;
     height: 150px;
     display: flex; 
     justify-content: center; 
@@ -246,3 +247,21 @@ ul {
   }
 
   /* Bookings */
+
+  
+
+ 
+
+  .form-section {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .container-form {
+    position: relative;
+    max-width: 700px;
+    width: 100%;
+    background: #fff;
+  }
