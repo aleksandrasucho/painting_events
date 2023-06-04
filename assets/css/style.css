@@ -1,6 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Sansita+Swashed:wght@500&display=swap');
 
-
 *,
 *::before,
 *::after {
@@ -15,17 +14,24 @@ body {
     font-weight: 400;
     color: rgba(16, 16, 16, 1); 
     min-height: 100vh;
-    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    width: 100%;
 }
 
 /* Header and logo */
-
 header {
     background: #fff;
-    display: block;
-    width: 100%;
     text-align: center;
     z-index: 999;
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    align-items: center;
+    justify-content: space-between;
+    box-shadow: none;
 }
 
 h1, h2 {
@@ -35,17 +41,16 @@ h1, h2 {
     color: #252525;
 }
 
-
 .logo {
-    float: left;
+    margin-left: auto;
     font-size: 70px;
     margin-left: 30px;
 }
 
-
 /* Navigation links */
-
 .menu {
+    display: flex;
+    width: 100%;
     font-size: 40px;
     letter-spacing: 2px;
 }
@@ -54,12 +59,7 @@ h1, h2 {
     line-height: 80px;
 }
 
-ul {
-    float: right;
-}
-
 .menu li {
-    float: left;
     list-style-type: none;
     margin-right: 40px;
 }
@@ -80,15 +80,15 @@ ul {
 }
 
 /* Hero Image and Text*/
-
 .hero-image {
     height: 600px;
-    width: 100%;
-    background: url('../images/Art-in-other-languages.webp') no-repeat center center;
+    width: 100vw;
+    background-image: url('../images/Art-in-other-languages.webp');
     background-size: cover;
-    overflow: hidden;
+    background-repeat: no-repeat;
+    background-position: center;
     background-attachment: fixed;
-    
+    position: relative;
 }
 
 .hero-text  {
@@ -97,14 +97,12 @@ ul {
     font-family: Inter, sans-serif;
     text-transform: capitalize;
     letter-spacing: 0.5px;
-    
     width: 700px;
-    height: 100px;
-    position: absolute;
+    padding: 2em 0;
+    position: relative;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-
     background-color: rgba(255, 255, 255, 0.72);
     border-radius: 30px;
     border: 1px solid #3a3a3a;
@@ -115,7 +113,6 @@ ul {
 }
 
 /* Information About the Event */
-
 .introduction {
     border-top: 1px solid #252525;
     border-bottom: 1px solid #252525;
@@ -167,13 +164,11 @@ ul {
     width: 800px;
     height: 400px;
     padding: 30px;
-    float: left;
     background: url(../images/canvas-set-up.webp) no-repeat center center;
     margin-left: 60px;
 }
 
 /* Book Now feature on Home Page */
-
 .book-now a {
     border: 1px solid rgba(93, 128, 75, 1.00);
     border-radius: 5px;
@@ -184,26 +179,21 @@ ul {
     font-size: 30px;
     display: inline-block;
     text-align: center;
-
     display: block; 
     margin: 0 auto;
     text-align: center;
     width: fit-content; 
-
-    
   }
 
   /* Footer */
-
   footer {
     position: relative;
-    height: 150px;
     display: flex; 
     justify-content: center; 
     align-items: center;
     border-top: 1px solid #fff; 
-    margin-top: 30px;
     background-color: rgba(93, 128, 75, 1.00);
+    width: 100%;
   }
   
   .social-networks {
@@ -212,7 +202,7 @@ ul {
   
   .social-networks > li {
     display: inline-block;
-    margin: 50px;
+    padding: 50px;
   }
   
   .social-networks i {
@@ -222,9 +212,7 @@ ul {
     color: #fff;
   }  
 
-
   /* Gallery */
-
   .img-container {
     clear: both;
     line-height: 5;
@@ -237,8 +225,9 @@ ul {
   
   .img-container > img {
     width: 100%;
-    
-    
+    box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
   }
   
   .img-container img:hover {
@@ -248,9 +237,6 @@ ul {
   }
 
   /* Bookings */
-
-  
-
  .booking-heading {
     text-align: center;
     font-size: 40px;
@@ -262,7 +248,6 @@ ul {
     display: flex;
     align-items: center;
     justify-content: center;
-  
   }
 
   .container-form {
@@ -272,7 +257,6 @@ ul {
     background: #fff;
     height: 100%;
     border: 1px solid #3a3a3a;
-   
   }   
 
   .text-input {
