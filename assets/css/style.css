@@ -187,10 +187,21 @@ a {
     transition: 0.5s;
   }
   /* Bookings */
+  label, input {
+    font-size: 20px;
+  }
+  .form {
+    width: 100%;
+    height: 100%;
+    background-image: url(../images/image-paints.jpg);
+    background-size: cover;
+    background-position: center;
+  }
  .booking-heading {
     text-align: center;
     font-size: 40px;
     margin-bottom: 30px;
+    margin-top: 20px;
  }
   .form-section {
     min-height: 100vh;
@@ -201,17 +212,23 @@ a {
   .container-form {
     position: relative;
     max-width: 500px;
+    padding: 4rem;
     width: 100%;
-    background: #fff;
     height: 100%;
     border: 1px solid #3a3a3a;
+    box-shadow: 0 4rem 5rem rgba(0, 0, 0, 0.7);
+    border-radius: 20px;
+    background-color: rgba(93, 128, 75, .9);
   } 
   .text-input {
     width: 100%;
-    height: 25px;
-    margin: 10px 0 20px 0;
+    height: 40px;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
     border: 1px solid #3a3a3a;
     border-radius: 2px;
+    letter-spacing: 0.2rem;
+    background: rgba(255, 255, 255, 0.72);
   }
 .date-input {
     width: 100%;
@@ -219,6 +236,7 @@ a {
     margin: 10px 0 20px 0;
     border: 1px solid #3a3a3a;
     border-radius: 2px;
+    background: rgba(255, 255, 255, 0.72);
 }
 .booking-button {
     margin-top: 20px;
@@ -231,6 +249,7 @@ a {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
+    cursor: pointer;
 }
 /*Events*/
 .event-times {
@@ -310,4 +329,5 @@ a {
 /* mouse over link */
 .social-networks li:hover {
     cursor: pointer;
+    scale: 1.2;
 }
