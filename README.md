@@ -1,3 +1,14 @@
+<h1 align="center">Canvas Carnival Website - Project Portfolio 1</h1>
+
+---
+
+# *Canvas Carnival*
+
+Canvas Carnival website allows people to learn about the company "Canvas Carnival" and find information about current events. The visitors of the website could quickly navigate through scheduled events and book a selected day.
+
+The site can be accessed by this [link](https://aleksandrasucho.github.io/painting_events/)
+
+---
 
 ## User Stories
 
