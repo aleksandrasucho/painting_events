@@ -113,20 +113,23 @@ a {
 }
 .information {
     height: 600px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: center;
 }
 .welcome {
     font-size: 40px;
     width: 70%;
     margin: 0 auto; 
     color: rgba(93, 128, 75, 1.00);
-    padding-top: 20px;
+    padding-top: 10px;
 }
 .left-about {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
     padding-top: 30px;
     width: 40%;
-    display: inline-block;
     vertical-align: top;
     margin-left: 70px;
     margin-right: 30px; 
@@ -137,7 +140,8 @@ a {
     font-size: 25px;
     padding-top: 30px;
     width: 40%;
-    display: inline-block;
+    justify-content: center;
+    align-items: center;
     vertical-align: top;
     margin-right: 30px; 
 }
@@ -351,3 +355,5 @@ a {
     cursor: pointer;
     scale: 1.2;
 }
+/* ----MEDIA---- */
+/*For mobile devices */
