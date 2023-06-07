@@ -279,6 +279,7 @@ a {
 /*Events*/
 .event-times {
     display: flex;
+    
     padding: 5rem 1rem;
     flex-direction: column;
     padding: 2rem 1rem 1rem 2rem;
@@ -295,6 +296,7 @@ a {
 }
 .event-times .event-all {
     display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
