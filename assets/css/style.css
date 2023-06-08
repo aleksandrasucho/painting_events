@@ -100,9 +100,13 @@ a {
 }
 
 /* Hero Image and Text*/
+.hero-image-container {
+    width: 100%;
+}
+
 .hero-image {
     height: 600px;
-    width: 100vw;
+    width: 100%;
     background-image: url('../images/Art-in-other-languages.webp');
     background-size: cover;
     background-repeat: no-repeat;
@@ -119,7 +123,7 @@ a {
     letter-spacing: 0.5px;
     width: 80%;
     padding: 2em;
-    position: relative;
+    position: absolute;
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
@@ -164,7 +168,7 @@ a {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
     padding-top: 30px;
-    width: 40%;
+    width: 100%;
     vertical-align: top;
     margin-left: 70px;
     margin-right: 30px; 
@@ -172,26 +176,23 @@ a {
 }
 
 .right-about {
-    color: rgba(16, 16, 16, 1);
-    font-size: 25px;
     padding-top: 30px;
     width: 100%;
     justify-content: center;
     align-items: center;
     vertical-align: top;
-    margin-right: 30px; 
+    margin-right: 30px;
     
 }
 
 .image-container {
-    padding: 30px;
-    background: url(../images/picutre-of-bruhses-and-paints.jpg) no-repeat center center;
-    display: block;
-    width: 100%;
-    height: 100%;
-    object-fit: contain;
+    height: 400px;
+    padding: 20px;
+    background: url(../images/canvas-set-up.webp) no-repeat center center;
+    background-size: contain;
+    
     margin-left: 60px;
-    background-size: cover;
+    
 }
 
 /* Book Now feature on Home Page */
