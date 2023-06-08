@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300&family=Sansita+Swashed:wght@500&display=swap');
+
 *,
 *::before,
 *::after {
@@ -6,6 +7,7 @@
   padding: 0;
   box-sizing: border-box;
 }
+
 body {
     margin: 0;
     font-family: Inter, sans-serif;
@@ -18,6 +20,7 @@ body {
     flex-direction: column;
     width: 100%;
 }
+
 /* Header and logo */
 header {
     background: #fff;
@@ -32,6 +35,13 @@ header {
     border-bottom: 2px solid #252525;
 }
 
+.logo-container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: start;
+}
+
 nav {
     width: 100%;
 }
@@ -42,38 +52,49 @@ h1, h2 {
     letter-spacing: 3px;
     color: #252525;
 }
+
 a {
     text-decoration: none;
 }
+
 .logo {
     font-size: 70px;
 }
+
 /* Navigation links */
 .menu {
     display: flex;
     width: 100%;
     font-size: 40px;
+    align-items: center;
     letter-spacing: 2px;
+    justify-content: end;
 }
+
 .menu, .logo {
     line-height: 80px;
 }
+
 .menu li {
     list-style-type: none;
     margin-right: 40px;
 }
+
 .menu a {
     text-decoration: none;
     color: inherit;
 }
+
 /* mouse over link */
 .menu a:hover {
     border-bottom: 1px solid #3a3a3a;
     color: rgba(93, 128, 75, 1.00);
 }
+
 .active {
     border-bottom: 1px solid #3a3a3a;
 }
+
 /* Hero Image and Text*/
 .hero-image {
     height: 600px;
@@ -85,14 +106,15 @@ a {
     background-attachment: fixed;
     position: relative;
 }
+
 .hero-text  {
     color: rgba(16, 16, 16, 1);
     font-size: 30px;
     font-family: Inter, sans-serif;
     text-transform: capitalize;
     letter-spacing: 0.5px;
-    width: 700px;
-    padding: 2em 0;
+    width: 80%;
+    padding: 2em;
     position: relative;
     top: 50%;
     left: 50%;
@@ -101,9 +123,11 @@ a {
     border-radius: 30px;
     border: 1px solid #3a3a3a;
 }
+
 .hero-text p {
     text-align: center;
 }
+
 /* Information About the Event */
 .introduction {
     border-top: 1px solid #252525;
@@ -116,6 +140,7 @@ a {
     color: rgba(16, 16, 16, 1);
     clear: both;
 }
+
 .information {
     height: 600px;
     display: flex;
@@ -123,6 +148,7 @@ a {
     align-items: center;
     justify-content: center;
 }
+
 .welcome {
     font-size: 40px;
     width: 70%;
@@ -130,6 +156,7 @@ a {
     color: rgba(93, 128, 75, 1.00);
     padding-top: 10px;
 }
+
 .left-about {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
@@ -140,6 +167,7 @@ a {
     margin-right: 30px; 
     text-align: justify;
 }
+
 .right-about {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
@@ -150,6 +178,7 @@ a {
     vertical-align: top;
     margin-right: 30px; 
 }
+
 .container {
     width: 800px;
     height: 400px;
@@ -157,6 +186,7 @@ a {
     background: url(../images/canvas-set-up.webp) no-repeat center center;
     margin-left: 60px;
 }
+
 /* Book Now feature on Home Page */
 .book-now a {
     border: 1px solid rgba(93, 128, 75, 1.00);
@@ -174,6 +204,7 @@ a {
     width: fit-content; 
     margin-bottom: 20px;
   }
+
   /* Gallery */
   .img-container {
     clear: both;
@@ -184,21 +215,25 @@ a {
     margin: 20px;
     margin-bottom: 0px;
   }
+
   .img-container > img {
     width: 100%;
     box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
     -webkit-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
   }
+
   .img-container img:hover {
     cursor: pointer;
     opacity: 0.5;
     transition: 0.5s;
   }
+
   /* Bookings */
   label, input {
     font-size: 20px;
   }
+
   .form {
     width: 100%;
     height: 100%;
@@ -206,18 +241,21 @@ a {
     background-size: cover;
     background-position: center;
   }
+
  .booking-heading {
     text-align: center;
     font-size: 40px;
     margin-bottom: 20px;
     margin-top: 20px;
  }
+
   .form-section {
     min-height: 95vh;
     display: flex;
     align-items: center;
     justify-content: center;
   }
+
   .container-form {
     position: relative;
     max-width: 500px;
@@ -229,6 +267,7 @@ a {
     border-radius: 20px;
     background-color: rgba(93, 128, 75, .2);
   } 
+
   .text-input {
     width: 100%;
     height: 40px;
@@ -239,6 +278,7 @@ a {
     letter-spacing: 0.2rem;
     background: rgba(255, 255, 255, 0.72);
   }
+
 .date-input {
     width: 100%;
     height: 25px;
@@ -247,6 +287,7 @@ a {
     border-radius: 2px;
     background: rgba(255, 255, 255, 0.72);
 }
+
 .booking-button {
     margin-top: 20px;
     border-radius: 10px;
@@ -260,6 +301,7 @@ a {
     text-align: center;
     cursor: pointer;
 }
+
 /*Response Page*/
 .response {
     width: 100%;
@@ -268,19 +310,23 @@ a {
     background-size: cover;
     background-position: center;
 }
+
 .response-page {
     min-height: 80vh;
     display: flex;
     align-items: center;
     justify-content: center;
   }
+
 .response-text {
     border: 3px solid #252525;
 }
+
 .response-text p {
     margin: 3rem;
     font-size: 2rem;
 }
+
 /*Events*/
 .event-times {
     display: flex;
@@ -288,23 +334,23 @@ a {
     padding: 5rem 1rem;
     flex-direction: column;
     padding: 2rem 1rem 1rem 2rem;
-    
-
 }
+
 .event-times .event-times-title {
     display: flex;
     justify-content: center;
     align-items: center;
     font-size: 30px;
     margin-bottom: 3rem;
-
 }
+
 .event-times .event-all {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     align-items: center;
 }
+
 .event-image {
     display: flex;
     width: 100%;
@@ -313,13 +359,14 @@ a {
     padding-top: 10px;
     padding-bottom: 10px;
 }
+
 .event-image img {
     width: 300px;
     height: 300px;
     border: 1px solid #252525;
     object-fit: cover;
-
 }
+
 .event-text {
     display: flex;
     flex-direction: column;
@@ -327,6 +374,7 @@ a {
     justify-content: center;
     align-items: center;
 }
+
 .event-1,  .event-2, .event-3, .event-4 {
     border: 1px solid #252525;
     padding: 1rem;
@@ -334,6 +382,7 @@ a {
     margin: 10px;
     background-color: rgba(93, 128, 75, 0.2);
 }
+
  /* Footer */
     footer {
     position: relative;
@@ -344,9 +393,11 @@ a {
     background-color: rgba(93, 128, 75, 1.00);
     width: 100%;
   }
+
   .social-networks {
     text-align: center;
   }
+
   .social-networks > li {
     display: inline-block;
     padding: 50px;
@@ -364,6 +415,7 @@ a {
     cursor: pointer;
     scale: 1.2;
 }
+
 /* ----MEDIA---- */
 @media screen and (max-width: 1407px) {
     .menu {
@@ -404,16 +456,20 @@ a {
         flex-direction: column;
        }
 
+       .logo-container {
+        justify-content: center;
+    }
+
        .menu {
         justify-content: space-around;
        }
 
-       .nav li {
-        margin-right: 0;
+       .menu li {
+        margin-right: 0 !important;
        }
 
         .menu li:last-child {
-            margin-right: 0;
+            margin-right: 0 !important;
         }
 
     
