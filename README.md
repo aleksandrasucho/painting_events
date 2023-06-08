@@ -28,3 +28,17 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 ### Frequent Visitor Goals:
 * As a Frequent User, I want to check for event updates. I want to stay up-to-date with any new information or changes regarding the event.
 * As a Frequent User, I want the booking process to be as easy as possible.
+
++ ### Navbar
+
++ ##### Navigation
+    - Positioned at the top of the page.
+    - Contains logo of the company on the left side.
+    - Contains navigation links on the right side:
+        * HOME - leads to the home page where users can learn about the company Canvas Carnival.
+        * EVENTS - leads to the events page where users can see information about current events. 
+        * GALLERY - leads to the gallery page where users can see photos from past events.
+        * BOOKINGS - leads to the booking form page where users can fill out the form in order to book a session and get in touch with the company.
+    - The links have animated hover effect.
+    - The navigation is clear and easy to understand for the user.
+     ![NavBar desktop](documentation/nav-bar-desktop.PNG)
