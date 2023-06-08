@@ -146,7 +146,6 @@ a {
 }
 
 .information {
-    height: 600px;
     display: flex;
     flex-direction: row;
     align-items: center;
@@ -176,19 +175,23 @@ a {
     color: rgba(16, 16, 16, 1);
     font-size: 25px;
     padding-top: 30px;
-    width: 40%;
+    width: 100%;
     justify-content: center;
     align-items: center;
     vertical-align: top;
     margin-right: 30px; 
+    
 }
 
-.container {
-    width: 800px;
-    height: 400px;
+.image-container {
     padding: 30px;
-    background: url(../images/canvas-set-up.webp) no-repeat center center;
+    background: url(../images/picutre-of-bruhses-and-paints.jpg) no-repeat center center;
+    display: block;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
     margin-left: 60px;
+    background-size: cover;
 }
 
 /* Book Now feature on Home Page */
