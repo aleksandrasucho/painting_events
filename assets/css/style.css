@@ -213,6 +213,11 @@ a {
     margin-bottom: 20px;
   }
 
+.book-now:hover {
+    cursor: pointer;
+    scale: 1.2;
+}
+
   /* Gallery */
   .img-container {
     clear: both;
