@@ -487,3 +487,9 @@ a {
 
     
 }
+
+    @media screen and (max-width: 375px) {
+        .menu {
+            font-size: 15px;
+        }
+    }
