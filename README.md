@@ -210,11 +210,11 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 
 #### Tablets
 
-- [Home Page. Tablet Screen](documentation)
-- [Events Page. Tablet Screen](documentation)
-- [Gallery Page. Tablet Screen](documentation/tablet_gallery_page.png)
-- [Bookings Page. Tablet Screen](documentation)
-- [Response Page. Tablet Screen](documentation)
+- [Home Page. Tablet Screen](documentation/home-page-tablet.PNG)
+- [Events Page. Tablet Screen](documentation/events-page-tablet.PNG)
+- [Gallery Page. Tablet Screen](documentation/gallery-page-tablet.PNG)
+- [Bookings Page. Tablet Screen](documentation/bookings-page-tablet.PNG)
+- [Response Page. Tablet Screen](documentation/response-page-tablet.PNG)
 
 #### Desktop
 
