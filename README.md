@@ -196,3 +196,33 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 ![Accent Font](documentation/sansita-swashed-font.PNG)
 
 - Sansita Swashed Google Font was used to attract viewers' attention to the company's logo, to make an accent on the strong points of the company, and to incentivize visitors to contact "Canvas Carnival".
+
+### Wireframes
+
+#### Mobile devices
+
+- [Home Page. Mobile Screen](documentation)
+- [Events Page. Mobile Screen](documentation)
+- [Gallery Page. Mobile Screen](documentation)
+- [Bookings Page. Mobile Screen](documentation)
+- [Response Page. Mobile Screen](documentation)
+
+
+#### Tablets
+
+- [Home Page. Tablet Screen](documentation)
+- [Events Page. Tablet Screen](documentation)
+- [Gallery Page. Tablet Screen](documentation/tablet_gallery_page.png)
+- [Bookings Page. Tablet Screen](documentation)
+- [Response Page. Tablet Screen](documentation)
+
+#### Desktop
+
+- [Home Page. Desktop Screen](documentation/home-page-desktop.PNG)
+- [Events Page. Desktop Screen](documentation/events-page-desktop.PNG)
+- [Gallery Page. Desktop Screen](documentation/gallery-page-desktop.PNG)
+- [Bookings Page. Desktop Screen](documentation/bookings-page-desktop.PNG)
+- [Response Page. Desktop Screen](documentation/response-page-desktop.PNG)
+
+
+---
