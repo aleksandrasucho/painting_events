@@ -180,19 +180,17 @@ a {
     width: 100%;
     justify-content: center;
     align-items: center;
-    vertical-align: top;
+    vertical-align: bottom;
     margin-right: 30px;
     
 }
 
-.image-container {
+ .image-container {
     height: 400px;
-    padding: 20px;
+    padding: 30px;
     background: url(../images/canvas-set-up.webp) no-repeat center center;
     background-size: contain;
-    
     margin-left: 60px;
-    
 }
 
 /* Book Now feature on Home Page */

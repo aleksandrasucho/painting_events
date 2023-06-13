@@ -42,3 +42,13 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
     - The links have animated hover effect.
     - The navigation is clear and easy to understand for the user.
      ![NavBar desktop](documentation/nav-bar-desktop.PNG)
+     - The navigation bar is responsive:
+        * On tablets: navigation bar is split into to lines: the first line filled with the logo and the second line filled with links. All elements are centered.
+        ![NavBar Tablets]()
+
+        * On mobile devices: 
+            - navigation bar filled with the logo in the center and a hamburger menu implemented on the left side of the navigation bar.      
+            ![NavBar Mobile Closed]()
+        
+            - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
+            ![NavBar Mobile Open]()
