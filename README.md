@@ -183,10 +183,16 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 
 ### Color Scheme
 
-![Color pallet](documentation/color_pallet.png)
+![Color pallet](documentation/color-pallete.PNG)
 
-- Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Animal Shelter".
+- Green is commonly linked to healing and relaxation. It is believed to have a restorative effect on the mind and body. Exposure to green colors or being in green surroundings can help reduce stress, promote relaxation, and provide a sense of well-being.
 
-- Light Blue Color was used as a background color since this color creates a sense of tranquility and makes a connection between animal's ownership and peacefulness.
+### Typography
 
-- Purple color was used to make an emphasis on the logo and leave a memorable effect on the website visitors.
+![Main Font](documentation/inter-font.PNG)
+
+- Inter Google Font was used as the main font of the website in order to increase readability of the content on the pages.
+
+![Accent Font](documentation/sansita-swashed-font.PNG)
+
+- Sansita Swashed Google Font was used to attract viewers' attention to the company's logo, to make an accent on the strong points of the company, and to incentivize visitors to contact "Canvas Carnival".
