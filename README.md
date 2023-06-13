@@ -243,5 +243,5 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Brave:
 
-    ![Brave](documentation/browsers_brave.gif)
+    ![Brave](documentation/)
 
