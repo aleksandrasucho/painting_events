@@ -43,12 +43,122 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
     - The navigation is clear and easy to understand for the user.
      ![NavBar desktop](documentation/nav-bar-desktop.PNG)
      - The navigation bar is responsive:
-        * On tablets: navigation bar is split into to lines: the first line filled with the logo and the second line filled with links. All elements are centered.
-        ![NavBar Tablets]()
+        * On tablets: 
+        -   navigation bar is split into two lines: the first line filled with the logo and the second line filled with links. All elements are centered.
+        ![NavBar Tablets](documentation/nav-bar-tablet.PNG)
 
         * On mobile devices: 
-            - navigation bar filled with the logo in the center and a hamburger menu implemented on the left side of the navigation bar.      
-            ![NavBar Mobile Closed]()
-        
-            - When the hamburger menu is clicked, there is dropdown menu with the links in the same order.
-            ![NavBar Mobile Open]()
+            -  navigation bar is split into two lines: the first line filled with the logo and the second line filled with links. All elements are centered.     
+            ![NavBar Mobile Closed](documentation/nav-for-mobile.PNG)
+
+    ---
+
++ ### Home Page
+
+    - Represent: 
+
+        * the main idea of the company.
+        * Emphasize the strong points of the company.
+        * Invites to fill out the bookings form.
+
+
+    ![Home Page](documentation/home-page-view.png)
+
+---
+
++ #### Hero Section
+
+    - Hero section have a fixed background image.
+
+    - Hero section have a short quote in the center of the image.
+
+    - Hero section have the block section below the image that consist:
+
+        * Short description of the company's philosophy.
+
+    
+    ![Hero Section](documentation/hero-section-view.PNG)
+
+--- 
+
++ #### Information about the event Section
+
+    - Information about the event Section has a small paragraph with a strong descriptive characteristics of the company.
+
+    - Tells website visitors where the company is located.
+
+    - Tells website visitors what the company provides for the events. 
+
+    
+    ![Information about the event Section](documentation/info-about-the-event.PNG)
+
+
+    ---
+
++ #### Call to Action Section
+
+    - Call to Action Section has a button that directs to the bookings page.
+​
+    ![Call to Action Section](documentation/call-to-action.PNG)
+
+    ---
++ #### Footer
+
+    - Footer contains social media links that open in a new tab.
+​
+    ![Footer](documentation/footer.PNG)
+​
+---
+
+
++ ### Events Page
+
+    - Events page has 4 cards with schedule for the upcoming week.
+
+        - Each card contains a desciption of the painting for each day.
+
+        - Each card has all the essential information like materials and time. 
+
+    - It has a button right after the schedule that leads to the bookings form page.
+
+    ![Events Page](documentation/events-page.png)
+---
+
++ ### Gallery Page
+
+    - It has photos from the past events.
+
+        - Each image has a hover effect.
+
+    - It has a footer identical to the home page's footer.
+    
+​
+    ![Gallery page](documentation/gallery-section.png)
+
+
+---
+
+---
++ ### Bookings page
+
+    - Bookings page has a booking form:
+
+        - All text input fields are customized.
+        - All inputs are set to be required to fill out.
+        - The submit button is animated on hover.
+
+    - The page is responsive on all common screen sizes.
+
+    - The submit button leads to the response page.
+​
+    ![Bookings page](documentation/bookings-page.png)
+
+    ---
++ ### Response page
+
+    - Response page appears after submitting the bookings form.
+    - It contains the thank you message and the promise to get in touch with the applicant within 24 hours.
+    - It will automatically direct the user to the main page in 10 seconds.
+
+    ![Response page](documentation/response-page.png)
+

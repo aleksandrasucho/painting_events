@@ -233,13 +233,14 @@ a {
     -webkit-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
     -moz-box-shadow: 10px 10px 30px 0px rgba(0,0,0,0.75);
   }
-
+ 
   .img-container img:hover {
     cursor: pointer;
     opacity: 0.5;
     transition: 0.5s;
   }
 
+ 
   /* Bookings */
   label, input {
     font-size: 20px;
