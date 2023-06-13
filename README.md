@@ -120,6 +120,7 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
         - Each card has all the essential information like materials and time. 
 
     - It has a button right after the schedule that leads to the bookings form page.
+    - It has a footer identical to the home page's footer.
 
     ![Events Page](documentation/events-page.png)
 ---
@@ -150,6 +151,7 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
     - The page is responsive on all common screen sizes.
 
     - The submit button leads to the response page.
+     - It has a footer identical to the home page's footer.
 ​
     ![Bookings page](documentation/bookings-page.png)
 
@@ -159,6 +161,7 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
     - Response page appears after submitting the bookings form.
     - It contains the thank you message and the promise to get in touch with the applicant within 24 hours.
     - It will automatically direct the user to the main page in 10 seconds.
+    - It has a footer identical to the home page's footer.
 
     ![Response page](documentation/response-page.png)
 
