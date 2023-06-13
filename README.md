@@ -253,7 +253,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Events Page:
 
-    ![Events Page](documentation/events-page-responsivnes.gif)
+    ![Events Page](documentation/events-page-responsivness.gif)
 
     - Gallery Page:
 
