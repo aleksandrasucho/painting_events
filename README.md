@@ -201,11 +201,11 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 
 #### Mobile devices
 
-- [Home Page. Mobile Screen](documentation)
-- [Events Page. Mobile Screen](documentation)
-- [Gallery Page. Mobile Screen](documentation)
-- [Bookings Page. Mobile Screen](documentation)
-- [Response Page. Mobile Screen](documentation)
+- [Home Page. Mobile Screen](documentation/home-page-mobile.PNG)
+- [Events Page. Mobile Screen](documentation/events-page-mobile.PNG)
+- [Gallery Page. Mobile Screen](documentation/gallery-page-mobile.PNG)
+- [Bookings Page. Mobile Screen](documentation/bookings-page-mobile.PNG)
+- [Response Page. Mobile Screen](documentation/response-page-mobile.PNG)
 
 
 #### Tablets
