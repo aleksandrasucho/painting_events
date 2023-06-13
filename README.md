@@ -165,3 +165,28 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 
     ![Response page](documentation/response-page.png)
 
+---
+## Technologies Used
+
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) was used as the foundation of the site.
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/css) - was used to add the styles and layout of the site.
+- [CSS Flexbox](https://developer.mozilla.org/en-US/docs/Learn/CSS/CSS_layout/Flexbox) - was used to arrange items simmetrically on the pages. 
+- [Balsamiq](https://balsamiq.com/) was used to make wireframes for the website.
+- [VSCode](https://code.visualstudio.com/) was used as the main tool to write and edit code.
+- [Git](https://git-scm.com/) was used for the version control of the website.
+- [GitHub](https://github.com/) was used to host the code of the website.
+- [GIMP](https://www.gimp.org/) was used to make and resize images for the README file.
+
+--- 
+
+## Design
+
+### Color Scheme
+
+![Color pallet](documentation/color_pallet.png)
+
+- Soft blue color was used as the main color of the website due to its phycological effect on people's minds. As this color is associated with trustworthiness and reliability, website visitors could build a firm believe in the organization "Animal Shelter".
+
+- Light Blue Color was used as a background color since this color creates a sense of tranquility and makes a connection between animal's ownership and peacefulness.
+
+- Purple color was used to make an emphasis on the logo and leave a memorable effect on the website visitors.
