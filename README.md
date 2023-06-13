@@ -243,5 +243,5 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Brave:
 
-    ![Brave](documentation/)
+    ![Brave](documentation/Canvas_Carnival_-_Brave_2023-06-13_23-59-19_AdobeExpress.gif)
 
