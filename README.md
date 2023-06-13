@@ -267,3 +267,66 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![Response Page](documentation/response-page-responsivnes.gif)
 
++ The website was checked with [Responsive Website Design Tester](https://responsivedesignchecker.com/).
+
+    - Desktop Screens:
+
+    ![Desktop 1024x600](documentation/)
+    ![Desktop 1024x800](documentation/)
+    ![Desktop 1366x768](documentation/)
+    ![Desktop 1440x900](documentation/)
+    ![Desktop 1600x900](documentation/)
+    ![Desktop 1680x1050](documentation/)
+    ![Desktop 1920x1080](documentation/)
+    ![Desktop 1920x1200](documentation/)
+
+    - Tablet Screens:
+
+    ![Tablet 600x960](documentation/)
+    ![Tablet 768x1024](documentation/)
+    ![Tablet 800x1280](documentation/)
+    ![Tablet 1024x768](documentation/)
+    ![Tablet 1366x1024](documentation/)
+    ![Tablet Kindle 768x1024](documentation/)
+
+    - Mobile Screens:
+
+    ![Mobile 320x480](documentation/)
+    ![Mobile 320x568](documentation/)
+    ![Mobile 360x640](documentation/)
+    ![Mobile 375x667](documentation/)
+    ![Mobile 384x640](documentation/)
+    ![Mobile 411x731](documentation/)
+    ![Mobile 414x736](documentation/)
+
++ The functionality of the links in the website was checked as well by different users.
+
+### Manual testing
+
+| feature | action | expected result | tested | passed | comments |
+| --- | --- | --- | --- | --- | --- |
+| Navbar | | | | | |
+| Home | Click on the "Home" link | The user is redirected to the main page | Yes | Yes | - |
+| Events | Click on the "Events" link | The user is redirected to the events page | Yes | Yes | - |
+| Gallery | Click on the "Gallery" link | The user is redirected to the gallery page | Yes | Yes | - |
+| Bookings | Click on the "Bookings" link | The user is redirected to the bookings page | Yes | Yes | - |
+| Footer | | | | | |
+| Facebook icon in the footer | Click on the Facebook icon | The user is redirected to the Facebook page | Yes | Yes | - |
+| Instagram icon in the footer | Click on the Instagram icon | The user is redirected to the Instagram page | Yes | Yes | - |
+| Twitter icon in the footer | Click on the Twitter icon | The user is redirected to the Twitter page | Yes | Yes | - |
+| Home page | | | | | |
+| "Book Now" button in Hero section | Click on the "Book Now" button | The user is redirected to the bookings page | Yes | Yes | - |
+| "Book Now" button in Events section | Click on the "Book Now" button | The user is redirected to the bookings page | Yes | Yes | - |
+| Gallery page | | | | | |
+| Image in the gallery | User hover the image | Pet's name and description appear on the image | Yes | Yes | - |
+| "Contact Us" button in Call to action section | Click on the "Contact Us" button | The user is redirected to the contact page | Yes | Yes | - |
+| Contact page | | | | | |
+| First name input | Enter the first name | The first name is entered | Yes | Yes | If user doesn't enter the first name, the error message appears |
+| Last name input | Enter the last name | The last name is entered | Yes | Yes | If user doesn't enter the last name, the error message appears |
+| Email Address input | Enter the email | The email is entered | Yes | Yes | If user doesn't enter the email, the error message appears. If user enters not valid email, the error message appears |
+| Date Input | Enter date | Date is entered | Yes | Yes | If user doesn't enter the date, the error message appears. If user enters not valid email, the error message appears |
+| "Submit" button | Click on the "Submit" button | The user is redirected to the response page | Yes | Yes | - |
+| Response page | | | | | |
+| Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
+
+
