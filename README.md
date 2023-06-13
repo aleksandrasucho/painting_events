@@ -226,3 +226,22 @@ The site can be accessed by this [link](https://aleksandrasucho.github.io/painti
 
 
 ---
+
+## Testing
+
+In order to confirm the correct functionality, responsiveness, and appearance:
+
++ The website was tested on the following browsers: Chrome, Firefox, Brave.
+
+    - Chrome:
+
+    ![Chrome](documentation/Canvas_Carnival_-_Google_Chrome_2023-06-13_23-12-41_AdobeExpress.gif)
+
+    - FireFox:
+
+    ![FireFox](documentation/fire-fox.gif)
+
+    - Brave:
+
+    ![Brave](documentation/browsers_brave.gif)
+
