@@ -245,3 +245,25 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![Brave](documentation/Canvas_Carnival_-_Brave_2023-06-13_23-59-19_AdobeExpress.gif)
 
+    + The website was checked by devtools implemented in Firefox and Chrome browsers.
+
+    - Home Page:
+
+    ![Home Page](documentation)
+
+    - Events Page:
+
+    ![Events Page](documentation/events-page-responsivnes.gif)
+
+    - Gallery Page:
+
+    ![Gallery Page](documentation)
+
+    - Bookings Page:
+
+    ![BookingsPage](documentation/bookings-page-responsivnes.gif)
+
+     - Response Page:
+
+    ![Response Page](documentation/response-page-responsivnes.gif)
+
