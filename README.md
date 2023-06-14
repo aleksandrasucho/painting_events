@@ -271,14 +271,14 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Desktop Screens:
 
-    ![Desktop 1024x600](documentation/)
-    ![Desktop 1024x800](documentation/)
-    ![Desktop 1366x768](documentation/)
-    ![Desktop 1440x900](documentation/)
-    ![Desktop 1600x900](documentation/)
-    ![Desktop 1680x1050](documentation/)
-    ![Desktop 1920x1080](documentation/)
-    ![Desktop 1920x1200](documentation/)
+    ![Desktop 1024x600](documentation/desktop_1024_600.gif)
+    ![Desktop 1024x800](documentation/desktop_1024_800.gif)
+    ![Desktop 1366x768](documentation/desktop_1366_768_AdobeExpress.gif)
+    ![Desktop 1440x900](documentation/desktop_1440_900_AdobeExpress.gif)
+    ![Desktop 1600x900](documentation/desktop_1600_900_AdobeExpress.gif)
+    ![Desktop 1680x1050](documentation/desktop_1680_1050_AdobeExpress.gif)
+    ![Desktop 1920x1080](documentation/desktop_1920_1080_AdobeExpress.gif)
+    ![Desktop 1920x1200](documentation/desktop_1920_1200_AdobeExpress.gif)
 
     - Tablet Screens:
 
