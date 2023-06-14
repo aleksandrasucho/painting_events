@@ -356,7 +356,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
       #### Events Page
     - No errors or warnings were found when passing through the official W3C validator.
 
-    ![Events Page HTML Validator](documentation/)
+    ![Events Page HTML Validator](documentation/events%20page%20validator.PNG)
     
   #### Gallery Page
     - No errors or warnings were found when passing through the official W3C validator.
