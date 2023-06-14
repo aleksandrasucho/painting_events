@@ -151,7 +151,6 @@ a {
 
 .information {
     display: flex;
-    flex-direction: row;
     align-items: center;
     justify-content: center;
 }
@@ -170,8 +169,6 @@ a {
     padding-top: 30px;
     width: 100%;
     vertical-align: top;
-    margin-left: 70px;
-    margin-right: 30px; 
     text-align: justify;
 }
 

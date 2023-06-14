@@ -249,7 +249,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Home Page:
 
-    ![Home Page](documentation)
+    ![Home Page](documentation/home-page-responsivnes.gif)
 
     - Events Page:
 
@@ -257,7 +257,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Gallery Page:
 
-    ![Gallery Page](documentation)
+    ![Gallery Page](documentation/gallery%20page%20responsivness.gif)
 
     - Bookings Page:
 
