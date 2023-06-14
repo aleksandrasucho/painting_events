@@ -439,18 +439,18 @@ In your IDE Terminal, type the following command to clone my repository:
 ## Credits
 
 #### Media
-
+ - Some images for the website were taken from [Unsplash](https://unsplash.com/).
     + [Hero image](https://i0.wp.com/cms.babbel.news/wp-content/uploads/2019/03/Art-in-other-languages.png?resize=830%2C467);
     + Home Page:
-        - [1st image](https://st4.depositphotos.com/4459753/28966/i/600/depositphotos_289665122-stock-photo-painting-at-the-art-school.jpg)
+        - [1st image](https://st4.depositphotos.com/4459753/28966/i/600/depositphotos_289665122-stock-photo-painting-at-the-art-school.jpg);
     + Events: 
         - [1st image](https://images.fineartamerica.com/images-medium-large-5/mountain-sunset-c-steele.jpg);
         - [2nd image](https://i.etsystatic.com/6243163/r/il/a6eade/1345784228/il_794xN.1345784228_kj7k.jpg);
-        - [3rd image](https://th-thumbnailer.cdn-si-edu.com/35mjVTVId-XVCxn0K_ooZC9aTR8=/1400x1050/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/0b/3e0b2b4b-2b70-4309-a308-8bbf08360e94/national_gallery_of_the_faroe_islands_ai_exhibit_insprired_by_van_gogh.png).
-        - [4th image](https://cdn.shopify.com/s/files/1/1997/2399/products/freddie-mercury-fine-art-print-and-limited-edition-canvas-giclee-music-193_large.jpg?v=1681400462).
+        - [3rd image](https://th-thumbnailer.cdn-si-edu.com/35mjVTVId-XVCxn0K_ooZC9aTR8=/1400x1050/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/0b/3e0b2b4b-2b70-4309-a308-8bbf08360e94/national_gallery_of_the_faroe_islands_ai_exhibit_insprired_by_van_gogh.png);
+        - [4th image](https://cdn.shopify.com/s/files/1/1997/2399/products/freddie-mercury-fine-art-print-and-limited-edition-canvas-giclee-music-193_large.jpg?v=1681400462);
     + Gallery:
          - [1st image](https://unsplash.com/photos/5DLRReNddWw);
-         - [2nd image]();
+         - [2nd image](https://unsplash.com/photos/kJQ6cDyodAM);
          - [3rd image](https://unsplash.com/photos/WhVO1xKiDVw);
          - [4th image](https://unsplash.com/photos/_Zu-9injbWc);
          - [5th image](https://unsplash.com/photos/JOYtT8_Y7c8);
