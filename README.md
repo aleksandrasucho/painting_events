@@ -344,4 +344,32 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     - Mistakes were made while committing changes. I used past simple tense in commits due to the habit when I just started working on this project.
     - While progressing in my code I learned to use present simple tense in commits.
 
+---
+## Validator testing
++ ### HTML
+  #### Home Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+
+    ![Home Page HTML Validator](documentation/validator%20check%20home.PNG)
+
+      #### Events Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Events Page HTML Validator](documentation/)
+    
+  #### Gallery Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Gallery Page HTML Validator](documentation/)
+
+  #### Bookings Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Bookings Page HTML Validator](documentation/)
+
+  #### Response Page
+    - No errors or warnings were found when passing through the official W3C validator.
+
+    ![Response Page HTML Validator](documentation/)
 
