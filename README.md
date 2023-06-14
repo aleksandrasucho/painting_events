@@ -355,11 +355,12 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![Home Page HTML Validator](documentation/validator-check-home.PNG)
 
- #### Events Page
+    #### Events Page
     - No errors or warnings were found when passing through the official W3C validator.
 
+
     ![Events Page HTML Validator](documentation/events-page-validator.PNG)
-    
+
   #### Gallery Page
     - No errors or warnings were found when passing through the official W3C validator.
 
