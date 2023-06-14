@@ -291,13 +291,13 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Mobile Screens:
 
-    ![Mobile 320x480](documentation/)
-    ![Mobile 320x568](documentation/)
-    ![Mobile 360x640](documentation/)
-    ![Mobile 375x667](documentation/)
-    ![Mobile 384x640](documentation/)
-    ![Mobile 411x731](documentation/)
-    ![Mobile 414x736](documentation/)
+    ![Mobile 320x480](documentation/mobile_320_480_AdobeExpress.gif)
+    ![Mobile 320x568](documentation/mobile_320_568_AdobeExpress.gif)
+    ![Mobile 360x640](documentation/mobile_360_640_AdobeExpress.gif)
+    ![Mobile 375x667](documentation/mobile_375_667_AdobeExpress.gif)
+    ![Mobile 384x640](documentation/mobile_384_640_AdobeExpress.gif)
+    ![Mobile 411x731](documentation/mobile_411_731_AdobeExpress.gif)
+    ![Mobile 414x736](documentation/mobile_414_736_AdobeExpress.gif)
 
 + The functionality of the links in the website was checked as well by different users.
 
