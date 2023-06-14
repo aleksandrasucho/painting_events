@@ -282,12 +282,12 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     - Tablet Screens:
 
-    ![Tablet 600x960](documentation/)
-    ![Tablet 768x1024](documentation/)
-    ![Tablet 800x1280](documentation/)
-    ![Tablet 1024x768](documentation/)
-    ![Tablet 1366x1024](documentation/)
-    ![Tablet Kindle 768x1024](documentation/)
+    ![Tablet 600x960](documentation/tablet_600_960_AdobeExpress.gif)
+    ![Tablet 768x1024](documentation/tablet_768_1024_AdobeExpress.gif)
+    ![Tablet 800x1280](documentation/tablet_800_1280_AdobeExpress.gif)
+    ![Tablet 1024x768](documentation/tablet_1024_768_AdobeExpress.gif)
+    ![Tablet 1366x1024](documentation/tablet_1366_1024_AdobeExpress.gif)
+    ![Tablet Kindle 768x1024](documentation/tablet_kindle_768_1024_AdobeExpress.gif)
 
     - Mobile Screens:
 
