@@ -8,6 +8,8 @@ Canvas Carnival website allows people to learn about the company "Canvas Carniva
 
 The site can be accessed by this [link](https://aleksandrasucho.github.io/painting_events/)
 
+![Responsive Mockup](documentation/responsive-screen.PNG)
+
 ---
 
 ## User Stories
@@ -353,7 +355,7 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 
     ![Home Page HTML Validator](documentation/validator-check-home.PNG)
 
-      #### Events Page
+ #### Events Page
     - No errors or warnings were found when passing through the official W3C validator.
 
     ![Events Page HTML Validator](documentation/events-page-validator.PNG)
@@ -372,4 +374,108 @@ In order to confirm the correct functionality, responsiveness, and appearance:
     - No errors or warnings were found when passing through the official W3C validator.
 
     ![Response Page HTML Validator](documentation/response-page-validator.PNG)
+
+    + ### CSS
+  No errors or warnings were found when passing through the official W3C (Jigsaw) validator.
+
+  ![CSS Validator errors](documentation/css-validaotr.PNG)
+  
+    - 2 warning regarding the use of *-webkit-box-shadow* and *-moz-box-shadow*: "Due to them being a vendor extension".
+    
+  ![CSS Validator errors](documentation/css-warning.PNG)
+
+  + ### Accessibility and performance 
+    - Using lighthouse in devtools I confirmed that the website is performing well, accessible and colors and fonts chosen are readable.
+    
+  #### Home page
+
+  ![Home Page Lighthouse](documentation/home-lighthouse.PNG)
+
+  #### Events page
+
+  ![Gallery Page Lighthouse](documentation/events-lightbouse.PNG)
+
+  #### Gallery page
+
+  ![Gallery Page Lighthouse](documentation/gallery-lighthouse.PNG)
+
+  #### Bookings page
+
+  ![Bookings Page Lighthouse](documentation/bookings-lighthouse.PNG)
+
+  #### Response page
+
+  ![Response Page Lighthouse](documentation/response-lighthouse.PNG)
+
+---
+## Deployment
+
+- The site was deployed to GitHub pages. The steps to deploy are as follows: 
+  - In the [GitHub repository](https://github.com/aleksandrasucho/painting_events), navigate to the Settings tab 
+  - From the source section drop-down menu, select the **Main** Branch, then click "Save".
+  - The page will be automatically refreshed with a detailed ribbon display to indicate the successful deployment.
+
+The live link can be found [here](https://aleksandrasucho.github.io/painting_events/)
+
+## Local Deployment
+
+In order to make a local copy of this project, you can clone it.
+In your IDE Terminal, type the following command to clone my repository:
+
+- `git clone https://github.com/aleksandrasucho/painting_events`
+
+
+---
+
+## Future improvements
+- add favicon with [Favicon Generator. For real.](https://realfavicongenerator.net/);
+- add custom 404 page;
+- add accessability report with [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/);
+- improve the quality of the commit messages (I am aware that some of them are not very clear and not meeting the standards and will improve them in the future);
+- add fully functional contact form when;
+
+---
+## Credits
+
+#### Media
+
+    + [Hero image](https://i0.wp.com/cms.babbel.news/wp-content/uploads/2019/03/Art-in-other-languages.png?resize=830%2C467);
+    + Home Page:
+        - [1st image](https://st4.depositphotos.com/4459753/28966/i/600/depositphotos_289665122-stock-photo-painting-at-the-art-school.jpg)
+    + Events: 
+        - [1st image](https://images.fineartamerica.com/images-medium-large-5/mountain-sunset-c-steele.jpg);
+        - [2nd image](https://i.etsystatic.com/6243163/r/il/a6eade/1345784228/il_794xN.1345784228_kj7k.jpg);
+        - [3rd image](https://th-thumbnailer.cdn-si-edu.com/35mjVTVId-XVCxn0K_ooZC9aTR8=/1400x1050/filters:focal(640x640:641x641)/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer_public/3e/0b/3e0b2b4b-2b70-4309-a308-8bbf08360e94/national_gallery_of_the_faroe_islands_ai_exhibit_insprired_by_van_gogh.png).
+        - [4th image](https://cdn.shopify.com/s/files/1/1997/2399/products/freddie-mercury-fine-art-print-and-limited-edition-canvas-giclee-music-193_large.jpg?v=1681400462).
+    + Gallery:
+         - [1st image](https://unsplash.com/photos/5DLRReNddWw);
+         - [2nd image]();
+         - [3rd image](https://unsplash.com/photos/WhVO1xKiDVw);
+         - [4th image](https://unsplash.com/photos/_Zu-9injbWc);
+         - [5th image](https://unsplash.com/photos/JOYtT8_Y7c8);
+         - [6th image](https://unsplash.com/photos/77mkL_qR8_w);
+    + Bookings:
+         - [1st image](https://www.freepik.com/free-photo/top-view-paint-brush-corner_3432186.htm);
+
+         
+
++ #### Tools
+
+    - [Compress JPEG](https://compressjpeg.com/) was used to compress JPEG images.
+    - [IMGonline.com.ua](https://www.imgonline.com.ua/eng/resize-image.php) was used to resize images.
+    - [EzGif](https://ezgif.com) was used to resize GIF images.
+    - [GIMP](https://www.gimp.org/) was used to edit all README.md images.
+    - [cooler](https://coolors.co/) was used to create the color palette.
+
+
+---
+
+## Acknowledgments
+
+- [Juliia Konovalova ](https://github.com/IuliiaKonovalova) was a great supporter. She guided me through the development of the project and helped me to learn a lot of new things by challenging me to do something new.
+- [Code Institute](https://codeinstitute.net/) tutors and Slack community members for their support and help.
+- [Kevin Powell](https://www.youtube.com/user/KepowOb) for his amazing CSS tutorials.
+
+---
+
 
