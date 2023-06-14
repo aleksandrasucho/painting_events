@@ -192,7 +192,6 @@ a {
 
 /* Book Now feature on Home Page */
 .book-now a {
-    border: 1px solid rgba(93, 128, 75, 1.00);
     border-radius: 5px;
     text-transform: uppercase;
     background-color: rgba(93, 128, 75, 1.00);
