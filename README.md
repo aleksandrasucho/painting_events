@@ -329,4 +329,19 @@ In order to confirm the correct functionality, responsiveness, and appearance:
 | Response page | | | | | |
 | Response message | The user will be automatically redirected to the home page after 10 seconds | The user is redirected to the home page | Yes | Yes | - |
 
+---
+​
+### Bugs
++ ##### Solved bugs
+
+    1. Footer on the contact page was reducing the size of the screen and shrank the contact form as the height of the background image was set to calc(100vh-the size of the footer)
+        
+        *Solution:* The height of the image was set to 100hv, and the display of the footer was set to fixed.
+    ---
++ ##### Unsolved bugs
+    - None.
++ ##### Mistakes
+    - Mistakes were made while committing changes. I used past simple tense in commits due to the habit when I just started working on this project.
+    - While progressing in my code I learned to use present simple tense in commits.
+
 

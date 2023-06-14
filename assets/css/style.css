@@ -214,6 +214,7 @@ a {
 .book-now:hover {
     cursor: pointer;
     scale: 1.2;
+    border-radius: 10px;
 }
 
   /* Gallery */
@@ -312,6 +313,11 @@ a {
     margin-right: auto;
     text-align: center;
     cursor: pointer;
+}
+
+.booking-button:hover {
+    cursor: pointer;
+    scale: 1.2;
 }
 
 /*Response Page*/
